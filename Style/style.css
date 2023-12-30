@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.Fotouniverso{
+
+    height: 35px;
+    width: 35;
+
+}
+
+.Foto{
+    height: 30px;
+    width: 30px;
+}
+
+.caja_1{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.caja_2{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 25px;
+    padding-top: 10px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.img_puntos{
+    display: flex;
+    align-items: center;
+}
+
+.Google{
+    margin-top: 200px;
+    margin-left: 680px;
+    height: 200px;
+    width: 500px;
+
+}
+
+.caja_4{
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(253, 253, 253);
+    
+}
+
+.Caja_6{
+    display: flex;
+    height: 50px;
+    align-items: center;
+    background-color: rgba(239, 232, 232, 0.753);
+}
+
+.Caja_5{
+    display: flex;
+    margin-top: 275px;
+    width: 1870px;
+    height: 30px;
+    align-items: center;
+    background-color: rgba(239, 232, 232, 0.753);
+}
+
+.Buscar{
+    display: flex;
+    height: 40px;
+    width: 429px;
+    border-radius: 900px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.Microfono{
+    display: flex;
+    align-items: center;
+    margin: 7px;
+}
+
+.Busquedaporimagen{
+    display: flex;
+    align-items: center;
+}
+
+.Separador{
+    display: flex;
+    width: 1150px;
+}
+
+.Caja_7{
+    display: flex;
+    margin: 1px;
+}
+
+.Caja_8{
+    display: flex;
+    margin: 5px;
+}
+
+.Caja_9{
+    display: flex;
+    margin: 10px;
+}
+
+.Caja_11{
+    display: flex;
+    margin: 10px;
+}
+
+.Caja_12{
+    display: flex;
+    margin: 10px;
+}
+
+.Caja_13{
+    display: flex;
+    margin: 5px;
+}
+
+/*.Boton{
+    padding: 10px 20px;
+    font-size: 13px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+*/
+
+.Botongoogle{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    border-radius: 4px;
+}
+
+.Boton{
+    border-radius: 4px;
+    margin-right: 150px;
+    font-family: arial,sans-serif;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 26px;
+    height: 36px;
+    min-width: 54px;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid white;
+
+}
+
+.barra-busqueda{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 70px;
+    border: solid 1px rgb(208, 203, 203);
+    width: 650px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.caja_3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Lupa{
+    padding-right: 10px;
+}
+
+.input{
+    height: 30px;
+    width: 530px;
+    border: none;
+    outline: none;
+}
+
+
+
+
